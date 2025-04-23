@@ -16,3 +16,8 @@ If the element is found, its index is returned; otherwise, a "not found" message
 
 ## Program Output:
 Element found at index: 2
+
+
+**Author:** Avantika Singh Baghel  
+**College:** Aks University, Satna  
+**Course:** B.Tech CSE (4th Sem)  
